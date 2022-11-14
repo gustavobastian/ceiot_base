@@ -1,0 +1,9 @@
+[submodule "TSIOT/ejercicio_01_TDD/solucion"]
+	path = TSIOT/ejercicio_01_TDD/solucion
+	url = https://github.com/gustavobastian/TestingIoTTP1
+[submodule "TSIOT/ejercicio_02_tateti/solucion"]
+	path = TSIOT/ejercicio_02_tateti/solucion
+	url = https://github.com/gustavobastian/TestingIoTTP2
+[submodule "TSIOT/ejercicio_03_BDD/solucion"]
+	path = TSIOT/ejercicio_03_BDD/solucion
+	url = https://github.com/gustavobastian/TestingIoTTP3
