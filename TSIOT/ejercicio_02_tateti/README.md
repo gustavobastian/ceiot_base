@@ -40,6 +40,16 @@ npm install --save-dev mocha chai nyc chai-http
 npm test
 ```
 # Solución Bastian(en otro repositorio)
+
+Para poder correr la solución, en "/ceiot_base " ejecutar:
+
 ```
-git clone https://github.com/gustavobastian/TestingIoTTP2
+git submodule init
+git submodule update
+```
+luego dentro de "/ceiot_base/TSIOT/ejercicio_02_tateti/solucion" :
+
+```
+npm install
+npm run test
 ```
