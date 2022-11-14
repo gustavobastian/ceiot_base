@@ -16,11 +16,13 @@ sudo npm install express-generator -g
 express --no-view  --git tateti
 ```
 
-2. Instalar las herramientas de testing 
+3. Instalar las herramientas de testing 
 
 ```
 npm install --save-dev mocha chai nyc chai-http
 ```
+
+
 
 3. Modificar el archivo `package.json` para agregar el comando de pruebas
 
@@ -36,3 +38,8 @@ npm install --save-dev mocha chai nyc chai-http
 
 ```
 npm test
+```
+# Solución Bastian(en otro repositorio)
+```
+git clone https://github.com/gustavobastian/TestingIoTTP2
+```
