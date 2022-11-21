@@ -1,0 +1,1 @@
+{"status":200,"message":"login ok","result":{"id":1,"username":"admin","email":"admin@samauec.org","roles":["ROLE_ADMIN","ROLE_USER"],"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjY4NDUwOTQ4LCJleHAiOjE2Njg0NTEyNDh9.XZ6-klfPO6vvLA4majmLsadR9jO-_KduY_JlB8H3l_E"}}
